@@ -15,7 +15,7 @@ struct HomeScreenView: View {
                 .foregroundStyle(.tint)
             Text("Hello")
         }
-        .padding()
+     
     }
 }
 
